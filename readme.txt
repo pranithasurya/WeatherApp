@@ -11,7 +11,7 @@ Author: Pranitha Surya Andalam
 
 Note:
 ------------------
-The main file is the index.aspx file. 
+The main file is the MainPage.aspx file. 
 This application reads from json file (weather_14.json) downloaded from the foloowing link : http://bulk.openweathermap.org/sample/ 
 All the three features code is available in DataAccessobject.cs file
 resultsPrb2.cs file contains country and city count mapping for featue.
